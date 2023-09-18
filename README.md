@@ -2,8 +2,10 @@
 
 ## I. Introduction 
 
-Source Kaggle. Click here [here]([http://~](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset?select=fraudTrain.csv))
+Source: Kaggle ( [Click here](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset?select=fraudTrain.csv) )
+
 Shape (size) : 2M records, 23 features
+
 Problem: binary classification
 
 **This dataset was already separated into 2 set: train and set dataset**
